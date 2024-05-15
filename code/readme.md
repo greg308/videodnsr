@@ -1,8 +1,6 @@
 
 ## Dataset Download
-First download the full 82GB vimeo septuplet 90K dataset from [http://toflow.csail.mit.edu/](http://toflow.csail.mit.edu/).
-
-Extract the contents of the zip and place into the `model` folder. The directory should be named `vimeo_septuplet`, and it should contain a `sequences` subdirectory. 
+First download the Vimeo 90K dataset from [http://toflow.csail.mit.edu/](http://toflow.csail.mit.edu/).
 
 ## Commands
 Train the model:
